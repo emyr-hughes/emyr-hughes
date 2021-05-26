@@ -11,4 +11,7 @@ This basically functions as a web/online CV, albeit still a work in progress, it
 https://shop.spicybois.co.uk 
 This is a website I created for a friend who started selling beef jerky, this was also created using `react-native-web`, with firebase and google cloud functions working as a back end, and integration with stripe to manage payments. PS. No products are currently for sale, but will be back soon!
 
+https://www.codewars.com/users/emyr-hughes
+Here's my codewars profile and profile banner.
+
 ![codewars banner](https://www.codewars.com/users/emyr-hughes/badges/large "Logo Title Text 1")
