@@ -3,7 +3,7 @@
 - 👀 I’m interested in Javascript, Typescript, React, React-native
 - 🌱 I’m currently learning Python
 
-Here's a list of links to things I've worked on and the banner for my codewars profile:-
+Here's a list of links to things I've worked on:-
 
 https://emyr-hughes.web.app 
 This basically functions as a web/online CV, albeit still a work in progress, it started out as a testing ground for `react-native-web` and I ended up making a few components and decided to use it as somewhere I can showcase some of the components I've made! PS. Try out snake
