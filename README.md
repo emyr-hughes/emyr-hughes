@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emyr-hughes
 - 💻 I'm currently working as a Full Stack Developer
 - 👀 I’m interested in Javascript, Typescript, React, React-native
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning some Python and basic machine learning!
 
 Here's a list of links to things I've worked on:-
 
